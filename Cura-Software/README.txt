@@ -1,0 +1,1 @@
+To use the Cura Slicer execute the cura.bat file from this directory.

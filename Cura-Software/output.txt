@@ -1,0 +1,3294 @@
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+>>Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+>>Traceback (most recent call last):
+>>  File "H:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+>>  File "H:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+>>  File "Cura\gui\printWindow.py", line 383, in _stdinMonitor
+>>  File "Cura\gui\printWindow.py", line 595, in LoadGCodeFile
+>>  File "Cura\util\gcodeInterpreter.py", line 45, in loadList
+>>  File "Cura\util\gcodeInterpreter.py", line 175, in _load
+>><type 'exceptions.TypeError'>: 'NoneType' object is not callable
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+>>Traceback (most recent call last):
+>>  File "H:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\site-packages\wx-2.8-msw-unicode\wx\_core.py", line 14660, in <lambda>
+>>    lambda event: event.callable(*event.args, **event.kw) )
+>>  File "Cura\gui\util\webcam.py", line 109, in takeNewImage
+>>    dc.SelectObject(bitmap)
+>>UnboundLocalError: local variable 'bitmap' referenced before assignment
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 61332 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 20444 -> 20202 98.8%
+Vertex counts: 61332 -> 10067 16.4%
+Optimize model 0.046s
+Slicing model...
+Layer count: 171
+Processed all layers in   0.3s
+Sliced model in 0.391s
+Generating layer parts...
+Generated layer parts in 0.094s
+Generated inset in 0.875s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 61332 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 20444 -> 20202 98.8%
+Vertex counts: 61332 -> 10067 16.4%
+Optimize model 0.031s
+Slicing model...
+Layer count: 171
+Processed all layers in   0.3s
+Sliced model in 0.406s
+Generating layer parts...
+Generated layer parts in 0.094s
+Generated inset in 0.797s
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, yTraceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+>>Exception in thread Thread-3 (most likely raised during interpreter shutdown):
+>>Traceback (most recent call last):
+>>  File "H:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+>>  File "H:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+>>  File "Cura\gui\printWindow.py", line 595, in LoadGCodeFile
+>>  File "Cura\util\gcodeInterpreter.py", line 45, in loadList
+>>  File "Cura\util\gcodeInterpreter.py", line 281, in _load
+>><type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'float32'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 61332 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 20444 -> 20202 98.8%
+Vertex counts: 61332 -> 10067 16.4%
+Optimize model 0.031s
+Slicing model...
+Layer count: 171
+Processed all layers in   0.3s
+Sliced model in 0.406s
+Generating layer parts...
+Generated layer parts in 0.094s
+Generated inset in 0.781s
+Generated up/down skin in 2.625s
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 924 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 308 -> 308 100.0%
+Vertex counts: 924 -> 146 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 291
+Processed all layers in   0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in 0.000s
+Generated inset in 0.063s
+Generated up/down skin in 0.218s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 924 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 308 -> 308 100.0%
+Vertex counts: 924 -> 146 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 291
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Exception in thread Thread-22:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-29:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 94548 vertexes
+Loaded from disk in 0.031s
+Analyzing and optimizing model...
+Face counts: 31516 -> 31516 100.0%
+Vertex counts: 94548 -> 15750 16.7%
+Optimize model 0.063s
+Slicing model...
+Layer count: 444
+Processed all layers in   0.1s
+Sliced model in 0.203s
+Generating layer parts...
+Generated layer parts in 0.109s
+Generated inset in 0.984s
+Generated up/down skin in 2.579s
+Exception in thread Thread-20:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-23:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-27:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-28:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-22:
+Traceback (most recent call last):
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "F:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 248178 vertexes
+Loaded from disk in 0.047s
+Analyzing and optimizing model...
+Face counts: 82726 -> 82494 99.7%
+Vertex counts: 248178 -> 41243 16.6%
+Optimize model 0.187s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 248178 vertexes
+Loaded from disk in 0.062s
+Analyzing and optimizing model...
+Face counts: 82726 -> 82494 99.7%
+Vertex counts: 248178 -> 41243 16.6%
+Optimize model 0.188s
+Slicing model...
+Layer count: 596
+Processed all layers in   1.3s
+Sliced model in 1.594s
+Generating layer parts...
+Generated layer parts in 0.250s
+Generated inset in 1.406s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 248178 vertexes
+Loaded from disk in 0.063s
+Analyzing and optimizing model...
+Face counts: 82726 -> 82524 99.8%
+Vertex counts: 248178 -> 41258 16.6%
+Optimize model 0.172s
+Slicing model...
+Layer count: 201
+Processed all layers in   1.5s
+Sliced model in 1.703s
+Generating layer parts...
+Generated layer parts in 0.141s
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-18:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-21:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-23:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 249
+Processed all layers in   0.0s
+Sliced model in 0.079s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.172s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 468 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 156 -> 156 100.0%
+Vertex counts: 468 -> 72 15.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 48
+Processed all layers in   0.0s
+Sliced model in 0.000s
+Generating layer parts...
+Generated layer parts in 0.000s
+Generated inset in 0.031s
+Generated up/down skin in 0.156s
+Wrote layers in  0.06s.
+Wrote 214.7 kilobytes.
+Total time elapsed  0.30s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.046s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.688s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.375s
+Generated up/down skin in 1.094s
+Wrote layers in  1.44s.
+Wrote   4.2 MB.
+Total time elapsed  4.01s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.110s
+Generating layer parts...
+Generated layer parts in 0.047s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.641s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.485s
+Generated up/down skin in 0.875s
+Wrote layers in  1.33s.
+Wrote   4.0 MB.
+Total time elapsed  3.41s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.109s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.312s
+Generated up/down skin in 0.579s
+Wrote layers in  0.98s.
+Wrote   6.6 MB.
+Total time elapsed  5.44s.
+Loading # from disk...
+Reading mesh from binary blob with 3924 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1308 -> 1308 100.0%
+Vertex counts: 3924 -> 654 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.1s
+Sliced model in 0.093s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.172s
+Generated up/down skin in 0.406s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.641s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.391s
+Generated up/down skin in 1.281s
+Wrote layers in  1.45s.
+Wrote   4.1 MB.
+Total time elapsed  3.97s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.360s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.406s
+Generated up/down skin in 0.906s
+Wrote layers in  1.27s.
+Wrote   8.3 MB.
+Total time elapsed  7.02s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.422s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.406s
+Generated up/down skin in 1.047s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.031s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.562s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.531s
+Generated up/down skin in 1.484s
+Wrote layers in  1.56s.
+Wrote   4.1 MB.
+Total time elapsed  4.27s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.500s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.407s
+Generated up/down skin in 1.187s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.047s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.453s
+Generating layer parts...
+Generated layer parts in 0.079s
+Generated inset in 0.515s
+Generated up/down skin in 1.203s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.672s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.469s
+Generated up/down skin in 1.125s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.031s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.562s
+Generating layer parts...
+Generated layer parts in 0.157s
+Generated inset in 0.515s
+Generated up/down skin in 1.047s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.672s
+Generating layer parts...
+Generated layer parts in 0.125s
+Generated inset in 0.547s
+Generated up/down skin in 1.406s
+Wrote layers in  1.98s.
+Wrote   4.1 MB.
+Total time elapsed  4.84s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.391s
+Generating layer parts...
+Generated layer parts in 0.062s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.390s
+Generating layer parts...
+Generated layer parts in 0.110s
+Generated inset in 0.375s
+Generated up/down skin in 1.297s
+Wrote layers in  1.47s.
+Wrote   4.1 MB.
+Total time elapsed  3.66s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.688s
+Generating layer parts...
+Generated layer parts in 0.125s
+Generated inset in 0.453s
+Generated up/down skin in 1.156s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.531s
+Generating layer parts...
+Generated layer parts in 0.172s
+Generated inset in 0.438s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.531s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.407s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.047s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.625s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.312s
+Generated up/down skin in 1.516s
+Wrote layers in  1.80s.
+Wrote   4.1 MB.
+Total time elapsed  4.39s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.110s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.171s
+Generated up/down skin in 0.375s
+Wrote layers in  0.64s.
+Wrote   2.5 MB.
+Total time elapsed  1.34s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.359s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.281s
+Generated up/down skin in 0.828s
+Wrote layers in  1.14s.
+Wrote   6.8 MB.
+Total time elapsed  4.02s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.2s
+Sliced model in 0.343s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.250s
+Generated up/down skin in 0.719s
+Wrote layers in  1.13s.
+Wrote  11.0 MB.
+Total time elapsed  6.53s.
+Loading # from disk...
+Reading mesh from binary blob with 8046 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 2682 -> 2682 100.0%
+Vertex counts: 8046 -> 1320 16.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.1s
+Sliced model in 0.140s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.172s
+Generated up/down skin in 0.516s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.031s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.407s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.312s
+Generated up/down skin in 0.844s
+Wrote layers in  1.27s.
+Wrote   4.0 MB.
+Total time elapsed  2.95s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.110s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.203s
+Generated up/down skin in 0.500s
+Wrote layers in  0.83s.
+Wrote   6.6 MB.
+Total time elapsed  4.66s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.422s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.297s
+Generated up/down skin in 0.906s
+Wrote layers in  1.28s.
+Wrote  10.9 MB.
+Total time elapsed  7.64s.
+Loading # from disk...
+Reading mesh from binary blob with 8046 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2682 -> 2682 100.0%
+Vertex counts: 8046 -> 1320 16.4%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.1s
+Sliced model in 0.141s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.203s
+Generated up/down skin in 0.594s
+Wrote layers in  0.78s.
+Wrote  13.5 MB.
+Total time elapsed  9.41s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.2s
+Sliced model in 0.344s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.312s
+Generated up/down skin in 0.860s
+Wrote layers in  1.42s.
+Wrote  17.7 MB.
+Total time elapsed 12.42s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.360s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.282s
+Generated up/down skin in 0.843s
+Wrote layers in  1.22s.
+Wrote   4.0 MB.
+Total time elapsed  2.80s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.125s
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.172s
+Generated up/down skin in 0.422s
+Wrote layers in  0.75s.
+Wrote   6.6 MB.
+Total time elapsed  4.30s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.390s
+Generating layer parts...
+Generated layer parts in 0.063s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.391s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.312s
+Generated up/down skin in 0.844s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 84942 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 28314 -> 28314 100.0%
+Vertex counts: 84942 -> 14157 16.7%
+Optimize model 0.063s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.484s
+Generating layer parts...
+Generated layer parts in 0.094s
+Generated inset in 0.328s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.609s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.344s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.500s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.312s
+Generated up/down skin in 0.954s
+Wrote layers in  1.41s.
+Wrote   4.1 MB.
+Total time elapsed  3.27s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.2s
+Sliced model in 0.344s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.281s
+Generated up/down skin in 0.813s
+Wrote layers in  1.31s.
+Wrote   8.1 MB.
+Total time elapsed  6.08s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.125s
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.203s
+Generated up/down skin in 0.438s
+Wrote layers in  0.95s.
+Wrote  10.8 MB.
+Total time elapsed  7.84s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.375s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.344s
+Generated up/down skin in 0.984s
+Wrote layers in 23.94s.
+Wrote  15.0 MB.
+Total time elapsed 33.56s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.407s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.516s
+Generated up/down skin in 1.000s
+Wrote layers in  1.34s.
+Wrote  19.2 MB.
+Total time elapsed 36.91s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.359s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.516s
+Generated up/down skin in 1.015s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.484s
+Generating layer parts...
+Generated layer parts in 0.079s
+Generated inset in 0.468s
+Generated up/down skin in 1.578s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.547s
+Generating layer parts...
+Generated layer parts in 0.125s
+Generated inset in 0.359s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.562s
+Generating layer parts...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.594s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.875s
+Generated up/down skin in 2.125s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.015s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.4s
+Sliced model in 0.469s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.344s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.047s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.6s
+Sliced model in 0.797s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.500s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.406s
+Generating layer parts...
+Generated layer parts in 0.078s
+Generated inset in 0.328s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.438s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.313s
+Generated up/down skin in 0.875s
+Wrote layers in  1.22s.
+Wrote   4.1 MB.
+Total time elapsed  2.92s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.344s
+Generating layer parts...
+Generated layer parts in 0.062s
+Generated inset in 0.422s
+Generated up/down skin in 0.828s
+Wrote layers in  1.19s.
+Wrote   8.2 MB.
+Total time elapsed  5.80s.
+Loading # from disk...
+Reading mesh from binary blob with 6462 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 2154 -> 2154 100.0%
+Vertex counts: 6462 -> 1077 16.7%
+Optimize model -0.000s
+Slicing model...
+Layer count: 415
+Processed all layers in   0.1s
+Sliced model in 0.094s
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.172s
+Generated up/down skin in 0.437s
+Wrote layers in  0.91s.
+Wrote  10.8 MB.
+Total time elapsed  7.47s.
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.032s
+Slicing model...
+Layer count: 219
+Processed all layers in   1.8s
+Sliced model in 1.859s
+Generating layer parts...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 102222 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 34074 -> 34074 100.0%
+Vertex counts: 102222 -> 17016 16.6%
+Optimize model 0.078s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.016s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.3s
+Sliced model in 0.500s
+Generating layer parts...
+Generated layer parts in 0.063s
+Generated inset in 0.406s
+Generated up/down skin in 1.062s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 15696 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 5232 -> 5232 100.0%
+Vertex counts: 15696 -> 2616 16.7%
+Optimize model 0.031s
+Slicing model...
+Layer count: 219
+Processed all layers in   0.5s
+Sliced model in 0.641s
+Generating layer parts...
+Generated layer parts in 0.156s
+Generated inset in 0.547s
+Generated up/down skin in 0.906s
+Exception in thread Thread-35:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-36:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-37:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1380 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 460 -> 452 98.3%
+Vertex counts: 1380 -> 226 16.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 198
+Processed all layers in   0.0s
+Sliced model in 0.047s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.265s
+Generated up/down skin in 0.407s
+Wrote layers in  0.38s.
+Wrote   1.3 MB.
+Total time elapsed  1.11s.
+Loading # from disk...
+Reading mesh from binary blob with 2706 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 902 -> 898 99.6%
+Vertex counts: 2706 -> 443 16.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 15
+Processed all layers in   0.0s
+Sliced model in 0.000s
+Generating layer parts...
+Generated layer parts in 0.000s
+Generated inset in 0.031s
+Generated up/down skin in 0.172s
+Wrote layers in  0.14s.
+Wrote   1.6 MB.
+Total time elapsed  1.47s.
+Loading # from disk...
+Reading mesh from binary blob with 3264 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1088 -> 1088 100.0%
+Vertex counts: 3264 -> 528 16.2%
+Optimize model -0.000s
+Slicing model...
+Layer count: 631
+Processed all layers in   0.1s
+Sliced model in 0.187s
+Generating layer parts...
+Generated layer parts in 0.032s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1380 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 460 -> 452 98.3%
+Vertex counts: 1380 -> 226 16.4%
+Optimize model -0.000s
+Slicing model...
+Layer count: 198
+Processed all layers in   0.1s
+Sliced model in 0.094s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.188s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1380 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 460 -> 452 98.3%
+Vertex counts: 1380 -> 226 16.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 198
+Processed all layers in   0.1s
+Sliced model in 0.109s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.203s
+Generated up/down skin in 0.406s
+Wrote layers in  0.52s.
+Wrote   1.3 MB.
+Total time elapsed  1.25s.
+Loading # from disk...
+Reading mesh from binary blob with 2706 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 902 -> 898 99.6%
+Vertex counts: 2706 -> 443 16.4%
+Optimize model 0.000s
+Slicing model...
+Layer count: 15
+Processed all layers in   0.0s
+Sliced model in 0.000s
+Generating layer parts...
+Generated layer parts in 0.000s
+Generated inset in 0.047s
+Generated up/down skin in 0.172s
+Wrote layers in  0.14s.
+Wrote   1.6 MB.
+Total time elapsed  1.63s.
+Loading # from disk...
+Reading mesh from binary blob with 3264 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1088 -> 1088 100.0%
+Vertex counts: 3264 -> 528 16.2%
+Optimize model 0.000s
+Slicing model...
+Layer count: 631
+Processed all layers in   0.2s
+Sliced model in 0.265s
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.204s
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+>>Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+>>Traceback (most recent call last):
+>>  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+>>  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+>>  File "Cura\gui\printWindow.py", line 383, in _stdinMonitor
+>>  File "Cura\gui\printWindow.py", line 595, in LoadGCodeFile
+>>  File "Cura\util\gcodeInterpreter.py", line 45, in loadList
+>>  File "Cura\util\gcodeInterpreter.py", line 117, in _load
+>><type 'exceptions.TypeError'>: 'NoneType' object is not callable
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 189, in <lambda>
+    self.Bind(wx.EVT_MENU, lambda e: self.showPrintWindow(), menu.Append(-1, 'Print with USB'))
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Traceback (most recent call last):
+  File "Cura\gui\util\openglGui.py", line 185, in _OnGuiMouseDown
+    if self._container.OnMouseDown(e.GetX(), e.GetY(), e.GetButton()):
+  File "Cura\gui\util\openglGui.py", line 100, in OnMouseDown
+    if ctrl.OnMouseDown(x, y, button):
+  File "Cura\gui\util\openglGui.py", line 536, in OnMouseDown
+    self._callback(button)
+  File "Cura\gui\sceneView.py", line 171, in OnPrintButton
+    self.showPrintWindow()
+  File "Cura\gui\sceneView.py", line 200, in showPrintWindow
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 5070 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1690 -> 1690 100.0%
+Vertex counts: 5070 -> 799 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 31
+Processed all layers in   0.0s
+Sliced model in 0.031s
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.094s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1572 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 524 -> 524 100.0%
+Vertex counts: 1572 -> 236 15.0%
+Optimize model 0.000s
+Slicing model...
+Layer count: 1499
+Processed all layers in   0.3s
+Sliced model in 0.375s
+Generating layer parts...
+Generated layer parts in 0.156s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1572 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 524 -> 524 100.0%
+Vertex counts: 1572 -> 236 15.0%
+Optimize model -0.000s
+Slicing model...
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1572 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 524 -> 524 100.0%
+Vertex counts: 1572 -> 236 15.0%
+Optimize model -0.000s
+Slicing model...
+Layer count: 1499
+Processed all layers in   0.2s
+Sliced model in 0.375s
+Generating layer parts...
+Generated layer parts in 0.156s
+Generated inset in 0.969s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 1572 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 524 -> 524 100.0%
+Vertex counts: 1572 -> 236 15.0%
+Optimize model -0.000s
+Slicing model...
+Layer count: 1499
+Processed all layers in   0.5s
+Sliced model in 0.579s
+Generating layer parts...
+Generated layer parts in 0.218s
+Generated inset in 0.891s
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-20:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-24:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 108 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 36 -> 36 100.0%
+Vertex counts: 108 -> 20 18.5%
+Optimize model 0.000s
+Slicing model...
+Layer count: 199
+Processed all layers in  -0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in -0.000s
+Generated inset in 0.016s
+Generated up/down skin in 0.031s
+Wrote layers in  0.08s.
+Wrote 235.4 kilobytes.
+Total time elapsed  0.17s.
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.032s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.078s
+Generated up/down skin in 0.297s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.016s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.094s
+Generated up/down skin in 0.281s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.078s
+Generated up/down skin in 0.282s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.047s
+Generating layer parts...
+Generated layer parts in -0.000s
+Generated inset in 0.094s
+Generated up/down skin in 0.437s
+Wrote layers in  3.86s.
+Wrote   3.6 MB.
+Total time elapsed  4.44s.
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.078s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.031s
+Generating layer parts...
+Generated layer parts in -0.000s
+Generated inset in 0.063s
+Generated up/down skin in 0.328s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.031s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.078s
+Generated up/down skin in 0.297s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.031s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.078s
+Generated up/down skin in 0.297s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.093s
+Generated up/down skin in 0.250s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.078s
+Generated up/down skin in 0.422s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in  -0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.063s
+Generated up/down skin in 0.297s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.031s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.078s
+Generated up/down skin in 0.266s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.063s
+Generated up/down skin in 0.250s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.047s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.078s
+Generated up/down skin in 0.297s
+Wrote layers in  3.52s.
+Wrote   3.5 MB.
+Total time elapsed  4.02s.
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.078s
+Generated up/down skin in 0.297s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model 0.015s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.079s
+Generated up/down skin in 0.250s
+Wrote layers in  3.53s.
+Wrote   3.5 MB.
+Total time elapsed  3.91s.
+Loading # from disk...
+Reading mesh from binary blob with 3390 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 1130 -> 1130 100.0%
+Vertex counts: 3390 -> 535 15.8%
+Optimize model -0.000s
+Slicing model...
+Layer count: 39
+Processed all layers in   0.0s
+Sliced model in 0.015s
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.094s
+Generated up/down skin in 0.281s
+Exception in thread Thread-27:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+VBO was not properly released!
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Exception in thread Thread-21:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Traceback (most recent call last):
+  File "Cura\gui\sceneView.py", line 471, in loadScene
+    objList = meshLoader.loadMeshes(filename)
+  File "Cura\util\meshLoader.py", line 32, in loadMeshes
+    return stl.loadScene(filename)
+  File "Cura\util\meshLoaders\stl.py", line 50, in loadScene
+    _loadBinary(m, f)
+  File "Cura\util\meshLoaders\stl.py", line 34, in _loadBinary
+    m._prepareFaceCount(faceCount)
+  File "Cura\util\mesh.py", line 260, in _prepareFaceCount
+    self.vertexes = numpy.zeros((faceNumber*3, 3), numpy.float32)
+ValueError: Maximum allowed dimension exceeded
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 33600 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 11200 -> 10512 93.9%
+Vertex counts: 33600 -> 5258 15.6%
+Optimize model 0.047s
+Slicing model...
+Layer count: 29
+Processed all layers in   0.1s
+Sliced model in 0.094s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.062s
+Generated up/down skin in 0.156s
+Wrote layers in  0.23s.
+Wrote 520.8 kilobytes.
+Total time elapsed  0.61s.
+Loading # from disk...
+Reading mesh from binary blob with 49068 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 16356 -> 16344 99.9%
+Vertex counts: 49068 -> 8164 16.6%
+Optimize model 0.031s
+Slicing model...
+Layer count: 49
+Processed all layers in   0.0s
+Sliced model in 0.078s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.047s
+Generated inset in 0.187s
+Generated up/down skin in 0.516s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 19188 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 6396 -> 6188 96.7%
+Vertex counts: 19188 -> 3096 16.1%
+Optimize model 0.000s
+Slicing model...
+Layer count: 29
+Processed all layers in   0.0s
+Sliced model in 0.047s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.015s
+Generated inset in 0.032s
+Generated up/down skin in 0.062s
+Wrote layers in  0.05s.
+Wrote 148.4 kilobytes.
+Total time elapsed  0.22s.
+Loading # from disk...
+Reading mesh from binary blob with 33600 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 11200 -> 10512 93.9%
+Vertex counts: 33600 -> 5258 15.6%
+Optimize model 0.031s
+Slicing model...
+Layer count: 29
+Processed all layers in   0.0s
+Sliced model in 0.047s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.000s
+Generated inset in 0.078s
+Generated up/down skin in 0.157s
+Wrote layers in  0.34s.
+Wrote 687.0 kilobytes.
+Total time elapsed  0.87s.
+Loading # from disk...
+Reading mesh from binary blob with 49068 vertexes
+Loaded from disk in 0.016s
+Analyzing and optimizing model...
+Face counts: 16356 -> 16344 99.9%
+Vertex counts: 49068 -> 8164 16.6%
+Optimize model 0.016s
+Slicing model...
+Layer count: 49
+Processed all layers in   0.1s
+Sliced model in 0.093s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.032s
+Generated inset in 0.218s
+Generated up/down skin in 0.500s
+Cura_SteamEngine version 13.06.4
+Loading # from disk...
+Reading mesh from binary blob with 19188 vertexes
+Loaded from disk in -0.000s
+Analyzing and optimizing model...
+Face counts: 6396 -> 6188 96.7%
+Vertex counts: 19188 -> 3096 16.1%
+Optimize model 0.015s
+Slicing model...
+Layer count: 29
+Processed all layers in   0.0s
+Sliced model in 0.016s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.031s
+Generated up/down skin in 0.062s
+Wrote layers in  0.05s.
+Wrote 148.4 kilobytes.
+Total time elapsed  0.19s.
+Loading # from disk...
+Reading mesh from binary blob with 33600 vertexes
+Loaded from disk in 0.000s
+Analyzing and optimizing model...
+Face counts: 11200 -> 10512 93.9%
+Vertex counts: 33600 -> 5258 15.6%
+Optimize model 0.016s
+Slicing model...
+Layer count: 29
+Processed all layers in   0.0s
+Sliced model in 0.062s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.016s
+Generated inset in 0.062s
+Generated up/down skin in 0.141s
+Wrote layers in  0.22s.
+Wrote 687.0 kilobytes.
+Total time elapsed  0.70s.
+Loading # from disk...
+Reading mesh from binary blob with 49068 vertexes
+Loaded from disk in 0.015s
+Analyzing and optimizing model...
+Face counts: 16356 -> 16344 99.9%
+Vertex counts: 49068 -> 8164 16.6%
+Optimize model 0.032s
+Slicing model...
+Layer count: 49
+Processed all layers in   0.1s
+Sliced model in 0.078s
+Generating support map...
+Generating layer parts...
+Generated layer parts in 0.031s
+Generated inset in 0.188s
+Exception in thread Thread-21:
+Traceback (most recent call last):
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 552, in __bootstrap_inner
+    self.run()
+  File "I:\3D printer\New folder (2)\Migbot-i3 CD guide assemble(L)\migbot\python\lib\threading.py", line 505, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "Cura\gui\sceneView.py", line 239, in _copyFile
+    self._slicer.submitSliceInfoOnline()
+  File "Cura\util\sliceEngine.py", line 322, in submitSliceInfoOnline
+    'profile': profile.getGlobalProfileString(),
+AttributeError: 'module' object has no attribute 'getGlobalProfileString'
+
