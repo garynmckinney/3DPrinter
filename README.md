@@ -9,6 +9,8 @@ The Cura Software folder contains the Cura slicer software and supporting files.
 
 Driver folder contains the drivers needed to connect to the 3D printer through the USB port on the mainboard.
 
+The Printer-Printer-Parts folder contains the STL files for printing the different printed parts of the 3D Printer.
+
 The different files and folders instruct how to assemble the 3D printer and also the software to control the printer.
 
 Have fun!!
