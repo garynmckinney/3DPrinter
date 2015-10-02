@@ -15,6 +15,10 @@ The Marlin zip file contains the latest open source files for the Marlin printer
 
 The different files and folders instruct how to assemble the 3D printer and also the software to control the printer.
 
+The following link has instructions on assembling and adjusting the printer - it also contains information about software to use with the printer as well.  It was originally written for the Migbot printer but is basically the same instructions.
+
+http://www.instructables.com/id/Migbot-I3-3D-Printer-Assembly-and-Use/		Assembly and Software documentation
+
 Have fun!!
 
 gm
