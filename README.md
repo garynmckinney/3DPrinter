@@ -19,6 +19,8 @@ The following link has instructions on assembling and adjusting the printer - it
 
 http://www.instructables.com/id/Migbot-I3-3D-Printer-Assembly-and-Use/		Assembly and Software documentation
 
+https://www.youtube.com/watch?v=dXj1OanewJ4 - YouTube video showing assembly of printer
+
 Have fun!!
 
 gm
