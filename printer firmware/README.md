@@ -12,4 +12,8 @@ If you MUST install the software or want to perform tweeks to the configuration 
 and we will know if you do install the firmware be sure to install the contents of the Addon directory contained
 within the ardurino source code folder contained in this directory.
 
+There is a word document with the instructions to configure the Arduino IDE and install the correct drivers for the 
+LCD display to operate properly. Once the correct drivers are setup the instructions provide step by step to install
+the firmware into the printer's main board.
+
 YOU HAVE BEEN WARNED!!
